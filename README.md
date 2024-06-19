@@ -128,7 +128,6 @@ print(f"Decrease Allowance Transaction Hash: {tx_hash_decrease}")
 ```python
 token_address = '0x...'  # Token's contract address
 owner_address = '0x...'  # Owner's address (address that allows to spend tokens)
-owner_private_key = '0x...'  # Owner's private key
 spender_address = '0x...'  # Spender's address (address allowed to spend tokens)
 spender_private_key = '0x...'  # Spender's private key
 receiver_address = '0x...'  # Receiver's address
